@@ -1,6 +1,4 @@
 # hello-world
-hello-world
-
-Hi Humans!  
+hello-world 
 
 My name is jordan and these are my changes!
